@@ -18,6 +18,8 @@ This project demonstrates how to configure a fully functional mail server using 
 - Rocky Linux, Ubuntu Server
 - FirewallD
 
+For a detailed step-by-step guide, see MailServer_Configuration_Guide.pdf
+
 
 ## Author
 Emtinan Ahmed – [LinkedIn](https://linkedin.com/in/emtinan-a-612647204)
